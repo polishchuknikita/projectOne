@@ -35,5 +35,5 @@
       "last 1 safari version"
     ]
   },
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+  "publishConfig": { "registry": "https://npm.pkg.github.com/-/user/org.couchdb.user:polishchuknikita" }
 }
